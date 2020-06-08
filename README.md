@@ -1,1 +1,3 @@
 # 基於特徵融合與支持向量迴歸的短期金融時間序列預測模型
+可透過以上7個模型(FA_CCA_SVR、ICA_CCA_SVR、PCA_CCA_SVR、FA_SVR、ICA_SVR、PCA_SVR和Single SVR)進行實作
+本研究採用的excel檔以壓縮在excel.rar中
